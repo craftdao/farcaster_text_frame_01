@@ -53,7 +53,7 @@ export async function GET() {
               display: "flex"
             }}
           >
-            <strong>DDDDOOLLPHINNN</strong>
+            <strong>Echo The Dolphin</strong>
           </div>
           <div
             style={{
@@ -61,7 +61,7 @@ export async function GET() {
               overflow: "hidden",
             }}
           >
-            Type something in the text input lol.
+            Type something in the text input below.
           </div>
         </div>
       </div>
