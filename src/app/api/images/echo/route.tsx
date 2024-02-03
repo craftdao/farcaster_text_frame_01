@@ -32,7 +32,7 @@ export async function GET(req: NextRequest) {
             objectFit: "cover", // Cover the area without losing aspect ratio
             width: "35%", // Image takes up 40% of the container's width
           }}
-          src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2639523a-690b-47af-16ab-ca07697fd000/original"
+          src="https://static.wixstatic.com/media/98b7da_130ba7371be24c1caac4f25a0c614548~mv2.png"
         />
         <div
           style={{
