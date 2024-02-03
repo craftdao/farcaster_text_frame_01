@@ -61,7 +61,7 @@ export async function GET() {
               overflow: "hidden",
             }}
           >
-            Type something in the text input below and Echo will say it back.
+            Type something in the text input below.
           </div>
         </div>
       </div>
