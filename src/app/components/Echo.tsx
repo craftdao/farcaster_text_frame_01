@@ -4,7 +4,7 @@ export default function Echo() {
          <img
           width="400"
           className="margin-auto"
-          src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2639523a-690b-47af-16ab-ca07697fd000/original"
+          src="https://static.wixstatic.com/media/98b7da_130ba7371be24c1caac4f25a0c614548~mv2.png"
         />
       <h1 className="text-8xl font-bold">Echo the Dolphin</h1>
       <a className="text-4xl text-sky-500 underline" href="https://github.com/horsefacts/echo-the-dolphin" target="_blank">See the code on Github</a>
